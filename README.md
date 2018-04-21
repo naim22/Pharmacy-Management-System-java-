@@ -1,0 +1,1 @@
+This Project on Pharmacy Management System is to manage the details stocks, sells, medicines, inventory, Pharmacy. It manage all information about pharmacy, stocks.
